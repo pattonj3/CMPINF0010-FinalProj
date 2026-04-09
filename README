@@ -1,1 +1,13 @@
+PROJECT BY TEAM NO. 1
 
+AUTHORS:
+  -Jessica Shaker jas863@pitt.edu
+  -Patton Johnson paj90@pitt.edu
+  -Arsenii Bobovnikov arb630@pitt.edu
+
+DATASETS:
+  1) Speed humps https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41-ae8e-4de1-8405-157e05dc3640
+  2) Obesety rates https://data.wprdc.org/dataset/allegheny-county-obesity-rates/resource/fce248f0-8697-4d2a-bbe0-2da826776bfa
+  3) Median Lifespan
+
+This project is our subjective view on which Pittsburgh neighborhood is the best based off "Health & Safety". We determined that based off 3 metrics (datasets above)

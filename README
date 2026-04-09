@@ -10,4 +10,4 @@ DATASETS:
   2) Obesety rates https://data.wprdc.org/dataset/allegheny-county-obesity-rates/resource/fce248f0-8697-4d2a-bbe0-2da826776bfa
   3) Median Lifespan
 
-This project is our subjective view on which Pittsburgh neighborhood is the best. We determined that based off 3 metrics (datasets above)
+This project is our subjective view on which Pittsburgh neighborhood is the best based off "Health & Safety". We determined that based off 3 metrics (datasets above)
